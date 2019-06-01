@@ -3,4 +3,4 @@ function choice(arr) {
   return arr[randomIndex];
 }
 
-export default { choice };
+export { choice };
