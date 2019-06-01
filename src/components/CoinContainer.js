@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Coin from './Coin';
-import choice from '../helpers';
+import { choice } from '../helpers';
 
 class CoinContainer extends Component {
   static defaultProps = {
